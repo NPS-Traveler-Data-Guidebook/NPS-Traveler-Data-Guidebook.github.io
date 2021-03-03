@@ -1,3 +1,3 @@
 # NYS Adirondacks
 
-source: `{{ page.path }}`
+## New York State Adirondacks: Transit Feasibility Study
