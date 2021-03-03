@@ -1,3 +1,3 @@
-# I'm folder1
+# Mobile Device Data
 
 source: `{{ page.path }}`
