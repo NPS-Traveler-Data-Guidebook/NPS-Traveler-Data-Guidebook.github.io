@@ -1,6 +1,6 @@
 # NPS Traveler Data Guidebook
 
-This is a placeholder for a blurb text about the project, the goal, and potential users. 
+This is a placeholder for a blurb text about the project, the goal, and potential users.
 
 ## Overview of Case Studies
 
@@ -22,3 +22,4 @@ This is a placeholder for a blurb text about the project, the goal, and potentia
 | Mobile Device Data | Location-based services (LBS) data gathered from cell phones or vehicles | Rocky Mountain, Mount Rainier |
 | Wifi | Location data gathered from park wifi use | Zion |
 | Crowdsourced Data | Data gathered from social media platforms generated actively by users | NYS Adirondacks, Mount Rainier |
+| Administrative Data | Data gathered through normal park administrative functions (hiker permits, trail registrations, parking tickets, etc.) | NYS Adirondacks | 

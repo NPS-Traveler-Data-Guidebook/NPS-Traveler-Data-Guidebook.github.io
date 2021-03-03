@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# Case Studies
+# Technology
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
