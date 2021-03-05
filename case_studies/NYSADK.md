@@ -18,8 +18,9 @@
 
 Waze was used to understand
 
-![alt text](/assets/images/NYS%20adk%20hourly%20waze%20traffic.gif)
+![alt text](/assets/images/NYS_Waze_traffic.gif)
 
+![alt text](/assets/images/NYS_Waze_traffic_pictures.png)
 
 
 ## AllTrails Process & Findings
