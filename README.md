@@ -35,6 +35,6 @@ Low <br /> ($0 to $5,000) |  Medium <br /> ($5,000 to $50,000) | High <br /> ($5
 <br>
 
 **Sample of Time Graphics:**<br>
-Low <br /> (less than 1 month) |  Medium <br /> (1 month to 6 months) | High <br /> (6 months to 12 months) | Higher <br /> (more than 12 months)
+Low <br> (less than 1 month) |  Medium <br> (1 month to 6 months) | High <br> (6 months to 12 months) | Higher <br> (more than 12 months)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/assets/images/one_bar.png)  | ![](/assets/images/two_bars.png)  |  ![](/assets/images/three_bars.png)| ![](/assets/images/four_bars.png)  
