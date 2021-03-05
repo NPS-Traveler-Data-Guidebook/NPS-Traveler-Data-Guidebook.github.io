@@ -36,7 +36,7 @@ Feasibility is a key consideration of this Data Guidebook. As such, each case st
 <br>
 
 **Sample of Time Graphics:**<br>
-| Low  |  Medium | High | Higher|
-|-------------------------|-------------------------|-------------------------|-------------------------|
-|(less than 1 month)|  (1 month to 6 months)  | (6 months to 12 months) |   (more than 12 months)|
-|![](/assets/images/one_bar.png)  | ![](/assets/images/two_bars.png)  |  ![](/assets/images/three_bars.png)| ![](/assets/images/four_bars.png)  |
+ Low  |  Medium | High | Highera
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+(less than 1 month)|  (1 month to 6 months)  | (6 months to 12 months) |   (more than 12 months)
+![](/assets/images/one_bar.png)  | ![](/assets/images/two_bars.png)  |  ![](/assets/images/three_bars.png)| ![](/assets/images/four_bars.png)  
