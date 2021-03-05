@@ -29,7 +29,7 @@ Feasibility is a key consideration of this Data Guidebook. As such, each case st
 
 **Sample of Costs Graphics:** <br>
 | Low  |  Medium | High | Higher|
-|-------------------------|-------------------------|-------------------------|-------------------------|
+| ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 |($0 to $5,000) |  ($5,000 to $50,000) | ($50,000 to $100,000) | (more than $100,000)|
 ![](/assets/images/one_bar.png)  | ![](/assets/images/two_bars.png)  |  ![](/assets/images/three_bars.png)| ![](/assets/images/four_bars.png)  
 
