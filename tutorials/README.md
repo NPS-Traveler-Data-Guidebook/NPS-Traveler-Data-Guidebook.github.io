@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Technology
+# Tutorials
 
 {% include list.liquid all=true %}
