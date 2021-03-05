@@ -12,35 +12,17 @@
 
 ## Resource Considerations
 
-<table style="padding:10px">
-  <tr>
-    <td>
-        "Cost: "<br>
-         <img src="/Guidebook-Website/assets/images/two_star.png"  alt="1" width = 279px height = 496px ></td>
 
-     <td>
-         "Cost: "<br>
-         <img src="/Guidebook-Website/assets/images/three_star.png" align="right" alt="2" width = 279px height = 496px></td>
-
-   <!--<td><img src="./Scshot/trip_end.png" align="right" alt="4" width =  279px height = 496px></td>-->
-  </tr>
-</table>
-
-<br><br><br><br>
-| Resource          | Level of Effort        |
-| ------------- | -------------------- |
-| Cost |
-![alt text](/Guidebook-Website/assets/images/two_star.png) |
-| Time |
-![alt text](/Guidebook-Website/assets/images/three_star.png) |
-| ------------- | -------------------- |
+Cost             |  Time
+:-------------------------:|:-------------------------:
+![](/assets/images/two_stars.png)  |  ![](/assets/images/three_stars.png)
 
 <br><br><br>
 ## Waze Process & Findings
 
 Waze was used to understand
 
-![alt text](/Guidebook-Website/assets/images/NYS_Waze_traffic.gif)
+![alt text](/assets/images/NYS_Waze_traffic.gif)
 
 <!---![alt text](/Guidebook-Website/assets/images/NYS_Waze_traffic_pictures.png)
 -->
