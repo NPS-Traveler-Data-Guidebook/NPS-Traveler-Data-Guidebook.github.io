@@ -1,0 +1,3 @@
+# AllTrails
+
+source: `{{ page.path }}`
