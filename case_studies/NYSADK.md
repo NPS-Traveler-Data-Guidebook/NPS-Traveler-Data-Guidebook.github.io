@@ -18,9 +18,9 @@
 
 Waze was used to understand
 
-![alt text](/assets/images/NYS_Waze_traffic.gif)
+![alt text](/Guidebook-Website/assets/images/NYS_Waze_traffic.gif)
 
-![alt text](/assets/images/NYS_Waze_traffic_pictures.png)
+![alt text](/Guidebook-Website/assets/images/NYS_Waze_traffic_pictures.png)
 
 
 ## AllTrails Process & Findings
