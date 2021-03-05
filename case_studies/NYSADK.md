@@ -15,7 +15,7 @@
 
 Cost             |  Time
 :-------------------------:|:-------------------------:
-![](/assets/images/two_stars.png)  |  ![](/assets/images/three_stars.png)
+![](/assets/images/two_bars.png)  |  ![](/assets/images/three_bars.png)
 
 <br><br><br>
 ## Waze Process & Findings
