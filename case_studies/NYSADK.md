@@ -12,15 +12,22 @@
 
 ## Resource Considerations
 
-|
+| Resource          | Level of Effort        |
+| ------------- | -------------------- |
+| Cost | Counters for traffic or bike/pedestrians |
+![alt text](/Guidebook-Website/assets/images/two_star.png) |
+| Time | Counters for traffic or bike/pedestrians |
+![alt text](/Guidebook-Website/assets/images/three_star.png) |
+| ------------- | -------------------- |
+
 
 ## Waze Process & Findings
 
 Waze was used to understand
 
-![alt text](/assets/images/NYS_Waze_traffic.gif)
+![alt text](/Guidebook-Website/assets/images/NYS_Waze_traffic.gif)
 
-![alt text](/assets/images/NYS_Waze_traffic_pictures.png)
+![alt text](/Guidebook-Website/assets/images/NYS_Waze_traffic_pictures.png)
 
 
 ## AllTrails Process & Findings
