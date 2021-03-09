@@ -4,7 +4,7 @@ source: `{{ page.path }}`
 
 ## Evaluation of Bicyclist and Pedestrian Streetlight Data
 
-This tutorial is hosted at [this Github respository](https://github.com/VolpeUSDOT/PLT-Web-Map). The repo contains an number of scripts to process and analyze data from the Streetlight Data platform for pedestrian and bicyclist crash rate evaluation.
+This tutorial is hosted at [this Github respository](https://github.com/VolpeUSDOT/OST_StreetlightData). The repo contains an number of scripts to process and analyze data from the Streetlight Data platform for pedestrian and bicyclist crash rate evaluation.
 
 The data was obtained by the Office of the Undersecretary of Transportation for Policy for evaluation purposes. The pilot focuses on 50 intersections in Philadelphia, Pennsylvania, located along the High Injury Network in Philadelphia.
 
